@@ -1,0 +1,10 @@
+RiskType,EventName,RiskProbability,ImpactCoefficient,WeakestDecision,MediumDecision,StrongDecision,WeakestCost,MediumCost,StrongCost
+goods,lack of funds,0.253,2.685,0.953,0.562,0.107,0.645,1.743,3.564
+goods,careless check,0.352,1.944,0.987,0.469,0.241,0.162,1.723,4.102
+goods,improper estimation,0.096,4.907,0.783,0.455,0.215,0.901,1.747,4.68
+goods,overmuch storage,0.227,3.552,0.969,0.459,0.092,0.802,1.947,4.417
+goods,falled flow control,0.188,4.127,0.87,0.469,0.227,0.756,1.902,4.488
+goods,wrong storage method,0.333,4.499,0.761,0.466,0.209,0.228,1.081,4.842
+goods,storage device failure,0.282,1.421,0.96,0.463,0.195,0.079,1.944,4.516
+goods,failed distribution strategy,0.433,3.019,0.888,0.479,0.273,0.101,0.251,3.597
+goods,failed flow control,0.285,2.505,0.762,0.555,0.142,0.24,1.102,3.494

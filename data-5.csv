@@ -1,0 +1,9 @@
+RiskType,EventName,RiskProbability,ImpactCoefficient,WeakestDecision,MediumDecision,StrongDecision,WeakestCost,MediumCost,StrongCost
+settlement,blizzard,0.189,3.316,0.754,0.517,0.069,0.084,0.063,4.565
+settlement,terrain,0.124,2.198,0.836,0.513,0.285,0.685,1.105,4.522
+settlement,equipment loss,0.433,2.027,0.965,0.592,0.122,0.607,1.782,3.088
+settlement,produce,0.051,1.398,0.865,0.51,0.224,0.644,0.945,4.143
+settlement,equipment management,0.092,1.637,0.89,0.482,0.148,0.426,1.069,4.419
+settlement,heat preservation,0.15,3.058,0.798,0.508,0.184,0.532,1.141,3.961
+settlement,illumination keeping,0.237,2.992,0.782,0.514,0.235,0.084,1.668,3.327
+settlement,building time spent,0.062,3.942,0.887,0.461,0.138,0.916,0.534,4.422

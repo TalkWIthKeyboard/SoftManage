@@ -1,0 +1,8 @@
+RiskType,EventName,RiskProbability,ImpactCoefficient,WeakestDecision,MediumDecision,StrongDecision,WeakestCost,MediumCost,StrongCost
+weather,blizzard,0.381,1.641,0.786,0.516,0.122,0.651,0.473,4.526
+weather,avalanche,0.167,1.888,0.788,0.498,0.247,0.501,1.991,3.228
+weather,lack of carrying equipment,0.234,1.519,0.878,0.484,0.228,0.819,1.624,3.196
+weather,lack of information,0.165,2.32,0.782,0.471,0.11,0.258,1.796,3.5
+weather,low physical fitness,0.097,3.197,0.949,0.537,0.164,0.302,1.667,4.905
+weather,fake,0.282,4.991,0.992,0.53,0.122,0.433,0.673,4.565
+weather,lack of funds,0.416,3.446,0.817,0.586,0.253,0.629,0.73,3.163

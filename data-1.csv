@@ -1,0 +1,12 @@
+RiskType,EventName,RiskProbability,ImpactCoefficient,WeakestDecision,MediumDecision,StrongDecision,WeakestCost,MediumCost,StrongCost
+disaster,snowstorm,0.394,1.153,0.757,0.505,0.236,0.456,0.317,3.708
+disaster,cryogenic freezing,0.215,4.029,0.977,0.518,0.122,0.946,1.368,4.376
+disaster,iceberg,0.271,1.64,0.968,0.456,0.071,0.834,0.477,4.906
+disaster,tsunami,0.087,1.036,0.937,0.57,0.224,0.752,1.801,3.519
+disaster,pirate,0.382,4.631,0.797,0.556,0.142,0.806,0.252,4.176
+disaster,losing direction,0.327,4.546,0.783,0.487,0.154,0.056,1.47,3.399
+disaster,glacier sliding,0.335,3.169,0.846,0.581,0.101,0.41,1.968,3.785
+disaster,avalanche,0.172,2.932,0.883,0.506,0.236,0.519,1.422,4.744
+disaster,earthquake,0.434,4.39,0.955,0.574,0.212,0.162,0.177,3.078
+disaster,ultraviolet,0.439,3.21,0.964,0.532,0.124,0.261,0.156,3.842
+disaster,lightnight&Darkday,0.184,4.133,0.98,0.578,0.161,0.83,2.049,3.992

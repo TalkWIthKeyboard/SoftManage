@@ -1,0 +1,6 @@
+RiskType,EventName,RiskProbability,ImpactCoefficient,WeakestDecision,MediumDecision,StrongDecision,WeakestCost,MediumCost,StrongCost
+teamwork,different language natives,0.379,4.014,0.88,0.516,0.217,0.125,1.686,3.251
+teamwork,different areas,0.176,4.203,0.94,0.495,0.242,0.36,1.232,4.419
+teamwork,failed work arrangement,0.273,4.035,0.919,0.549,0.257,0.267,1.343,3.562
+teamwork,unfair treatment,0.101,3.287,0.932,0.486,0.264,0.341,0.876,3.947
+teamwork,unreasonable personal construction,0.399,2.245,0.863,0.543,0.177,0.736,0.39,4.823
