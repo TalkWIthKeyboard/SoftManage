@@ -20,7 +20,7 @@ global costList
 global file
 cost_quota = 9.5
 
-swith = ['bad choose', 'good choose', 'best choose']
+swith = ['bad choice', 'good choice', 'best choice']
 riskName = ['disaster', 'disease', 'goods', 'route', 'settlement', 'teamwork', 'transportation', 'weather']
 
 
@@ -182,7 +182,7 @@ def solveOneRisk(csv_name, i):
     min = 10000
     this_answer = None
     for each in treeList:
-        if not each.haveSon and each.costAll <= costList[i - 1] and each.riskScoreAll < min:
+        if not each.haveSon and each.costAll <= int(costList[i - 1]) and each.riskScoreAll < min:
             min = each.riskScoreAll
             this_answer = each
     file.write("\n  Spending restrictions: " + str(costList[i - 1]))
